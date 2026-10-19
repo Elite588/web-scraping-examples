@@ -1362,7 +1362,7 @@ cargo add spider-browser          # Rust
 
 ## Related
 
-- [spider-browser](https://github.com/spider-rs/spider-browser) — The SDK powering these examples
+- [spider-browser](https://github.com/Elite588/spider-browser) — The SDK powering these examples
 - [spider.cloud](https://spider.cloud) — Browser fleet & web scraping API
 
 ## License
